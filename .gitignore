@@ -1,0 +1,6 @@
+.vscode/
+.vagrant/
+gcpkey.json
+fiap-7aso-devopslab/
+fiap-7aso-devopslab-infra/
+.DS_Store
